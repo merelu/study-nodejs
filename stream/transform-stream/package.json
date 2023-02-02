@@ -1,5 +1,5 @@
 {
-  "name": "readable-stream",
+  "name": "transform-stream",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,12 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "chance": "^1.1.9",
-    "mkdirp": "^0.5.1",
-    "request": "^2.88.0",
-    "slug": "^1.1.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "jest": "^24.9.0"
   },
